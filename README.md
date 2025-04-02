@@ -19,10 +19,6 @@ O repositório está estruturado da seguinte forma:
 📁 PROGI
 │── 📄 README.md  # Este arquivo
 │── 📁 src   # Exemplos de código abordados em aula
-│── 📁 exercicios # Lista de exercícios e desafios propostos
-│── 📁 projetos   # Projetos desenvolvidos durante a disciplina
-│── 📁 materiais  # Apostilas, slides e outros materiais complementares
-└── 📁 avaliacoes # Provas e trabalhos práticos
 ```
 
 ## 🛠️ Tecnologias Utilizadas
