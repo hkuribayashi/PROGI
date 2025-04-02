@@ -16,9 +16,9 @@ A disciplina tem como objetivo introduzir os conceitos básicos de programação
 O repositório está estruturado da seguinte forma:
 
 ```
-📁 programacao-I
+📁 PROGI
 │── 📄 README.md  # Este arquivo
-│── 📁 exemplos   # Exemplos de código abordados em aula
+│── 📁 src   # Exemplos de código abordados em aula
 │── 📁 exercicios # Lista de exercícios e desafios propostos
 │── 📁 projetos   # Projetos desenvolvidos durante a disciplina
 │── 📁 materiais  # Apostilas, slides e outros materiais complementares
@@ -26,25 +26,21 @@ O repositório está estruturado da seguinte forma:
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-- Linguagem: **Python**
-- Ambiente de desenvolvimento recomendado: **Jupyter Notebook**, **VS Code** ou **PyCharm**
+- Linguagem: **Java**
+- Ambiente de desenvolvimento recomendado: **InteliJ**
 
 ## 📖 Como Utilizar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/programacao-I.git
+   git clone https://github.com/hkuribayashi/PROGI.git
    ```
 2. Navegue até a pasta desejada e explore os arquivos.
-3. Para executar os códigos Python, utilize:
-   ```sh
-   python nome_do_arquivo.py
-   ```
 
 ## 🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou novos exemplos via **Pull Request**.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou novos exemplos.
 
 ## 📢 Contato
-Para dúvidas ou mais informações, entre em contato pelo e-mail institucional ou pelo fórum da disciplina no Moodle.
+Para dúvidas ou mais informações, entre em contato pelo e-mail institucional ou pelo fórum da disciplina no SIGAA.
 
 ---
 **Disciplina**: Programação I (SI01001)  
