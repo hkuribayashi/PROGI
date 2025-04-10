@@ -1,4 +1,4 @@
-/*
+package exemplos_202503;/*
 Questão 01: Desenvolva um algoritmo que leia a base e a altura de um retângulo. Em seguida, calcule sua área
 (base x altura) e imprima o valor na tela do computador.
 */

@@ -1,4 +1,4 @@
-/*
+package exemplos_202503;/*
 Questão 04: Escreva um programa que leia o nome de um
 funcionário, seu número de horas trabalhadas, o valor que
 recebe por hora e calcula o salário desse funcionário.

@@ -1,3 +1,5 @@
+package exemplos_202503;
+
 import java.util.Scanner;
 public class Exemplo15 {
     public static void main(String[] args) {

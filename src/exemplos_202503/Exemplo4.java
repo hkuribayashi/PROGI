@@ -1,4 +1,4 @@
-/*
+package exemplos_202503;/*
 Questão 03: Crie um algoritmo que leia três números e calcule a média aritmética destes números. Em seguida imprima o
 valor da média na tela.
 */
