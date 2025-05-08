@@ -1,3 +1,5 @@
+package exemplos_202505;
+
 public class Exemplo19 {
 
     public static void main(String[] args) {

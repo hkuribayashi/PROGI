@@ -1,3 +1,5 @@
+package exemplos_202505;
+
 public class Exemplo22 {
     public static void main(String[] args) {
         int primeiro = 1;

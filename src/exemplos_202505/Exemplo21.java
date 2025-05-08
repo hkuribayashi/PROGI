@@ -1,3 +1,5 @@
+package exemplos_202505;
+
 import java.util.Scanner;
 
 public class Exemplo21 {
@@ -14,6 +16,20 @@ public class Exemplo21 {
             }
         }else{
             System.out.print("O numero informado é invalido");
+        }
+    }
+
+    public static class Exemplo24 {
+    
+        public static void main(String[] args) {
+            Scanner leitor = new Scanner(System.in);
+            System.out.println("Digite um numero: ");
+            int n = leitor.nextInt();
+            for (int contador = 0; contador <= n; contador++) {
+                System.out.println(contador);
+            }
+            
+            
         }
     }
 }
