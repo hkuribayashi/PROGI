@@ -1,3 +1,5 @@
+package exemplos_202505;
+
 public class Exemplo38 {
 
     public static boolean saoMultiplos(int a, int b){
