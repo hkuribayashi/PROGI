@@ -1,3 +1,5 @@
+package exemplos_202506;
+
 public class Exemplo53 {
     
     public static int[] criarArray(){

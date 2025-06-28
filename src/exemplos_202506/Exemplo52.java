@@ -1,3 +1,5 @@
+package exemplos_202506;
+
 public class Exemplo52 {
 
     public static double[] criarArray() {

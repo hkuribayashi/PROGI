@@ -1,3 +1,5 @@
+package exemplos_202506;
+
 public class Exemplo50 {
 
     public static void contagemNumeros(int[] vetor){
